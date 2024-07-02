@@ -1,7 +1,7 @@
-import express from "express";
-const app = express();
-const port = 3000;
+import exp from "express";
+const app=exp();
+const port=3000;
 
-app.listen(port, () => {
-  console.log(`Server running on port ${port}.`);
-});
+app.listen(port,()=>{
+    console.log(`hey Mrinal,Server Running on port no. ${port}.`);
+})
